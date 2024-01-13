@@ -8,7 +8,6 @@ build/
 .venv/
 prof/
 
-data/
 cache/
 run/
 misc/

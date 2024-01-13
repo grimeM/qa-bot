@@ -5,15 +5,9 @@ name = "pypi"
 
 [packages]
 aiogram = "*"
-sqlalchemy = "*"
 pydantic = "*"
 pydantic-settings = "*"
-psycopg2 = "*"
-redis = {extras = ["hiredis"], version = "*"}
-attrs = "*"
-dateparser = "*"
-fluentogram = "*"
-jinja2 = "*"
+thefuzz="*"
 
 [dev-packages]
 

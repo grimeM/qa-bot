@@ -12,5 +12,5 @@ class Config(BaseSettings):
 
     telegram_api_token: SecretStr
 
-    redis_url: str
-    database_url: str
+    questions_file: Path = Path("/data/qa.json")
+    answer_threshold: float = 60
