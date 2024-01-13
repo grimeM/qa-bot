@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "*"
+sqlalchemy = "*"
+pydantic = "*"
+pydantic-settings = "*"
+psycopg2 = "*"
+redis = {extras = ["hiredis"], version = "*"}
+attrs = "*"
+dateparser = "*"
+fluentogram = "*"
+jinja2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

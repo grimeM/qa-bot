@@ -1,0 +1,1 @@
+hello =     Send /start to begin!
