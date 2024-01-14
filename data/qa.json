@@ -1,8 +1,81 @@
 [
     {
         "questions": [
-            "matvey"
+            "учебное расписание",
+            "расписание занятий"
         ],
-        "answer": "zalupkin"
+        "answer": "Расписание доступно в интерактивном виде на https://edu.misis.ru/schedule/moscow/current и в форме таблицы https://misis.ru/students/schedule/."
+    },
+    {
+        "questions": [
+            "перевод",
+            "перевестись",
+            "перевод между академическими группами"
+        ],
+        "answer": "Порядок перевода студентов между академическими группами доступен по ссылке http://df.misis.ru/uploads/files/document/perevodDocLink.pdf"
+    },
+    {
+        "questions": [
+            "сессия",
+            "экзамены",
+            "экзаменационная сессия"
+        ],
+        "answer": "Расписание экзаменационной сессии доступно по ссылке https://misis.ru/students/session/."
+    },
+    {
+        "questions": [
+            "практика",
+            "стажировка",
+            "документы практика",
+            "документы стажировка",
+            "пройти стажировка"
+        ],
+        "answer": "Информация о порядке прохождения практик и стажировок доступна на портале Центра карьеры https://misis.ru/university/struktura-universiteta/centers/career-center/intern/memo/. Также вы можете подписаться на канал в Telegram https://t.me/careernitumisis."
+    },
+    {
+        "questions": [
+            "активность",
+            "мероприятия"
+        ],
+        "answer": "Вы можете ознакомиться с календарем актуальных мероприятий НИТУ МИСИС https://misis.ru/university/events/."
+    },
+    {
+        "questions": [
+            "учебный план",
+            "образовательная программа"
+        ],
+        "answer": "Описание образовательной программы доступно на странице вашей кафедры https://misis.ru/university/struktura-universiteta/kafedry/."
+    },
+    {
+        "questions": [
+            "спорт",
+            "физкультура",
+            "секция",
+            "спортивная"
+        ],
+        "answer": "Информация о физкультуре и спортивных секциях доступна на портале кафедры физкультуры и здоровья https://misis.ru/university/struktura-universiteta/kafedry/61/training-activity/."
+    },
+    {
+        "questions": [
+            "туризм",
+            "поход",
+            "турклуб"
+        ],
+        "answer": "Вся информация о туризме в НИТУ МИСИС доступна в группе Туристического клуба ВКонтакте http://vk.com/tk_misis."
+    },
+    {
+        "questions": [
+            "личный кабинет",
+            "войти личный кабинет"
+
+        ],
+        "answer": "Войти в личный кабинет студента можно по ссылке: https://lk.misis.ru/user/users/sign_in."
+    },
+    {
+        "questions": [
+            "канвас",
+            "canvas"
+        ],
+        "answer": "Войти в LMS Canvas можно по ссылке: https://lms.misis.ru/."
     }
 ]
